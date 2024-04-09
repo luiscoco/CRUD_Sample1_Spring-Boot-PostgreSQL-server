@@ -1,6 +1,6 @@
 # CRUD Sample1 SpringBoot PostgreSQL server
 
-# How to install PostgreSQL
+## 1. How to install PostgreSQL
 
 https://www.postgresql.org/download/
 
@@ -42,6 +42,8 @@ We run PgAdmin4 and we input and save the password
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server/assets/32194879/871f2893-d65f-4e9a-8257-b692cd55739e)
 
+## 2. Create a new database(testdb) and a new table(tutorials)
+
 We right click on the Databases and we create a new database called **testdb**
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server/assets/32194879/53bf2a08-aa16-4191-9fd3-ee366bff30b4)
@@ -61,4 +63,5 @@ Now we have to create the tutorials table. We right click on the Schema and Crea
 We confirm we created a new table called **tutorials**
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server/assets/32194879/dc96c361-7b4d-4fdf-8e8e-45eee36e77ca)
+
 
