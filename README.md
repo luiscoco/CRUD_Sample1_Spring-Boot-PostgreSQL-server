@@ -184,6 +184,12 @@ spring.jpa.properties.hibernate.dialect= org.hibernate.dialect.PostgreSQLDialect
 spring.jpa.hibernate.ddl-auto= update
 ```
 
+**IMPORTANT NOTE**
+
+Do not forget to set in the application.properties file the PostgreSQL password as defined during installation
+
+![image](https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server/assets/32194879/dd841ae9-6e5e-446e-9876-88d11284ad87)
+
 ### 3.3. Project folders and files structure
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server/assets/32194879/c327ccf0-7ce0-4d94-92ff-042246876390)
