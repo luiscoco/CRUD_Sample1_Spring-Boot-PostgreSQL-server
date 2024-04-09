@@ -1,4 +1,4 @@
-# CRUD Sample1 SpringBoot PostgreSQL server
+# CRUD SpringBoot PostgreSQL server
 
 ## 1. How to install PostgreSQL
 
