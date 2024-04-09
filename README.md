@@ -473,19 +473,23 @@ We verify the angular application running
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server/assets/32194879/7795e550-0ad7-49dc-bdfd-590ad60929ef)
 
-We select the Add menu option and we add a new item to the list
+We select the **Add** menu option and we add a **new item** to the list
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server/assets/32194879/fda25d27-a31f-4235-bd49-ce84e581d9a7)
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server/assets/32194879/dd560f58-82f0-4cf6-9068-21ea92c23e7d)
 
-We select the Tutorials menu option and we click on the new item created
+We select the Tutorials menu option and we **click on the new item created**
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server/assets/32194879/2cb5c6ea-7b72-4dc6-86b7-745370db09a2)
 
 If we open **pg Admin 4** we can also see the new item in the database testdb and table tutorials
 
-We can also edit the created item pressing on the item and then in the Edit button
+![image](https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server/assets/32194879/97b9eb33-c6dc-46f2-9886-2a2a554800d8)
+
+We can also **edit** the created item pressing on the item and then in the Edit button
+
+![image](https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server/assets/32194879/9c33b855-cf94-4eed-8793-f243f7e3b153)
 
 
 
