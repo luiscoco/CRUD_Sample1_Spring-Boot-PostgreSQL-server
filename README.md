@@ -423,5 +423,55 @@ public class TutorialController {
 }
 ```
 
-## 4. How to run the application
+## 4. How to run the Server SpringBoot application
+
+### 4.1. We first run the Server SpringBoot application
+
+Run MySQL Workbench and enter in the database testdb
+
+```
+mvn spring-boot:run
+```
+
+or
+
+```
+mvn spring-boot:run -X
+```
+
+We confirm the SpringBott server application is running in Tomcat in port 8080
+
+### 4.2. We now run the Client Angular front-end application
+
+The Client app source code is stored in this github repo: https://github.com/luiscoco/CRUD_Sample1_angular-17-client
+
+We install the application dependencies with this command:
+
+```
+npm i
+```
+
+or
+
+```
+npm install
+```
+
+Then we run the angular application in port 8081
+
+```
+ng serve --port 8081
+```
+
+We verify the angular application running
+
+We select the Add menu option and we add a new item to the list
+
+We select the Tutorials menu option and we confirm the Tutorial list now has the new created item
+
+If we open **pg Admin 4** we can also see the new item in the database testdb and table tutorials
+
+We can also edit the created item pressing on the item and then in the Edit button
+
+
 
