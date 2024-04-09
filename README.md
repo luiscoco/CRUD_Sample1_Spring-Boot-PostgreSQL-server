@@ -36,3 +36,8 @@ We select the local configuration
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server/assets/32194879/4b0bfc52-124c-4f34-8171-414784ad349d)
 
+We run PgAdmin4 and we input and save the password
+
+![image](https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server/assets/32194879/42333992-9a56-4b4c-9535-a15b763aa848)
+
+![image](https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server/assets/32194879/871f2893-d65f-4e9a-8257-b692cd55739e)
