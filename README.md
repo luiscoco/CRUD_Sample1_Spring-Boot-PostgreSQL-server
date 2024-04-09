@@ -41,3 +41,24 @@ We run PgAdmin4 and we input and save the password
 ![image](https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server/assets/32194879/42333992-9a56-4b4c-9535-a15b763aa848)
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server/assets/32194879/871f2893-d65f-4e9a-8257-b692cd55739e)
+
+We right click on the Databases and we create a new database called **testdb**
+
+![image](https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server/assets/32194879/53bf2a08-aa16-4191-9fd3-ee366bff30b4)
+
+![image](https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server/assets/32194879/10087bce-de66-4039-8c7c-d46a198e5912)
+
+We verify the database was created
+
+![image](https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server/assets/32194879/b9758466-8291-496e-8130-947a2a897740)
+
+Now we have to create the tutorials table. We right click on the Schema and Create a new Query
+
+![image](https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server/assets/32194879/ac6545f1-2a76-454d-aa7d-88970a3df6c1)
+
+![image](https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server/assets/32194879/1ea2c633-0643-4322-815d-9bf89dd790d8)
+
+We confirm we created a new table called **tutorials**
+
+![image](https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server/assets/32194879/dc96c361-7b4d-4fdf-8e8e-45eee36e77ca)
+
